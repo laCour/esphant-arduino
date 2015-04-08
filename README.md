@@ -54,6 +54,7 @@ boolean success = esp8266.send(esphant);
 
 ```ino
 #include <ESPhant.h>
+#include <SoftwareSerial.h>
 
 // ESP8266 Wi-Fi module
 // RX, TX, RESET
