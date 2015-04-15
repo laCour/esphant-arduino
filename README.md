@@ -116,8 +116,8 @@ After flashing, `AT+GMR` will say the SDK version is 0.9.5, this is normal.
 
 **Logic Level Converter:**
 * US: [SparkFun @ $2.95](https://www.sparkfun.com/products/12009) — [Adafruit @ $3.50](http://www.adafruit.com/products/1875) — [Adafruit @ $3.95](http://www.adafruit.com/products/757)
-* China: [AliExpress @ >$1.00](www.aliexpress.com/wholesale?catId=0&SearchText=logic+level+converter+ttl)
+* China: [AliExpress @ >$1.00](http://www.aliexpress.com/wholesale?catId=0&SearchText=logic+level+converter+ttl)
 
 **FTDI Breakout (supporting 3v3):**
 * US: [SparkFun @ $14.95](https://www.sparkfun.com/products/9873)
-* China: [AliExpress @ >$2.20](www.aliexpress.com/wholesale?catId=0&SearchText=FTDI+3.3V+TTL)
+* China: [AliExpress @ >$2.20](http://www.aliexpress.com/wholesale?catId=0&SearchText=FTDI+3.3V+TTL)
