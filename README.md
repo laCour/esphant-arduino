@@ -2,7 +2,9 @@
 
 The goal of this library is to provide a simple interface for logging data to phant. This library will handle interaction with Wi-Fi via any ESP8266 module. Its purpose is to make it both easier for users to build phant compatible requests as well as execute those requests.
 
-This library is based off of the [phant-arduino](https://github.com/sparkfun/phant-arduino) library from SparkFun. It uses the same license, GPL-3. The `ESPhant` class in this library is essentially a stripped down version of Phant which works alongside with the `ESP8266` class.
+This library is based off of the [phant-arduino](https://github.com/sparkfun/phant-arduino) library from SparkFun. It uses the same license, GPL-3. The `ESPhant` class in this library is essentially a stripped down version of Phant which works alongside the `ESP8266` class.
+
+As an example of stability/reliability, I have made a temperature logger using this library. You can see it in action here: [weather.lacour.me](http://weather.lacour.me/). The graph updates live, shortly after the logger [logs to data.sparkfun.com](https://data.sparkfun.com/temperatures) every 20 seconds or so. This logger uses an ESP-07 with an external antenna.
 
 ## Installation
 
